@@ -1,0 +1,25 @@
+CHANGES
+
+
+2016-04-29 (nb)
+
+Fixed/updated texts and typos. Small improvements.
+
+
+2015-09-26 (nb)
+
+Added new usitwim_mem_read function. Other small changes.
+
+- Added new usitwim_mem_read function.
+- Other small changes.
+
+
+2015-03-03 (nb)
+
+Updated README, added LICENSE.
+
+
+2015-02-25 (nb)
+
+Files added to the repository.
+

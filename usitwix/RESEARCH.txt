@@ -1,0 +1,19 @@
+﻿
+
+
+
+
+---- Arduino Wire ----
+
+Wire Library
+http://arduino.cc/en/reference/Wire
+
+Master Writer/Slave Receiver
+http://arduino.cc/en/Tutorial/MasterWriter
+
+Master Reader/Slave Sender
+http://arduino.cc/en/Tutorial/MasterReader
+
+I2C between Arduino's
+http://www.instructables.com/id/I2C-between-Arduinos/
+
